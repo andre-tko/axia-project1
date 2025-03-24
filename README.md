@@ -49,6 +49,5 @@ This is a personal portfolio webpage built using HTML and CSS. It showcases my p
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@andre-tko](https://www.frontendmentor.io/profile/andre-tko)
 - Twitter - [@andre_tko](https://x.com/andre_tko)
