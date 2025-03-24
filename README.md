@@ -6,14 +6,12 @@ This is a personal portfolio webpage built using HTML and CSS. It showcases my p
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Project Features](#project-features)
-  - [Screenshots](#screenshots)
-  - [Live Demo](#live-demo)
+- [Project Features](#project-features)
+- [Screenshots](#screenshots)
+- [Live Demo](#live-demo)
 - [Built With](#built-with)
 - [Installation](#installation)
-- [What I Learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,16 +25,14 @@ This is a personal portfolio webpage built using HTML and CSS. It showcases my p
 ### Screenshots
 
 #### Desktop View
-![Desktop Design](./desktop-screenshot.jpg)
+![Desktop Design](./desktop-screenshot.jpeg)
 
 #### Mobile View
 ![Mobile Design](./mobile-screenshot.jpg)
 
-> *(Replace the placeholders with actual screenshots of your project.)*
-
 ### Live Demo
 
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Live Site URL: [andre-tko/axia-project1](https://andre-tko.github.io/axia-project1/)
 
 ## Built With
 
@@ -54,5 +50,5 @@ This is a personal portfolio webpage built using HTML and CSS. It showcases my p
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@andre-tko](https://www.frontendmentor.io/profile/andre-tko)
+- Twitter - [@andre_tko](https://x.com/andre_tko)
